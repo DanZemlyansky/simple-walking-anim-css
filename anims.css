@@ -17,7 +17,7 @@ body {
     }
 
     to {
-        transform: translateX(1100px);
+        transform: translateX(1300px);
     }
 }
 
@@ -35,7 +35,7 @@ body {
 .crab {
     position: absolute;
     transform: scale(10%, 10%);
-    bottom: -10%;
+    bottom: -20%;
 }
 
 img {
